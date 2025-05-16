@@ -8,6 +8,7 @@ import Login from './pages/Login';
 import Register from './pages/Register';
 import CVBuilder from './pages/CVBuilder';
 import JobApplication from './pages/JobApplication';
+import Profile from './pages/Profile';
 import Templates from './pages/Templates';
 
 // Components
